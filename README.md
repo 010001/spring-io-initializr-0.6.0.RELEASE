@@ -1,0 +1,1 @@
+# spring-io-initializr-0.6.0.RELEASE
