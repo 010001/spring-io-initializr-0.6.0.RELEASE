@@ -1,0 +1,11 @@
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/extension/ReactorTestRequestPostProcessor.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/extension/SpringSessionRequestPostProcessor.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/extension/SpringBoot2RequestPostProcessor.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/extension/SpringCloudStreamRequestPostProcessor.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/InitializrService.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/extension/JacksonKotlinRequestPostProcessor.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/extension/SpringBatchTestRequestPostProcessor.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/extension/SpringSecurityTestRequestPostProcessor.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/extension/JavaVersionRequestPostProcessor.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/extension/AbstractProjectRequestPostProcessor.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/main/java/io/spring/initializr/service/info/CloudFoundryInfoContributor.java

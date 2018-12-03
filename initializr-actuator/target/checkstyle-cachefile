@@ -1,0 +1,23 @@
+#Mon Dec 03 11:30:40 CST 2018
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/info/DependencyRangesInfoContributorTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/ProjectRequestDocumentFactoryTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/info/BomRangesInfoContributor.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/metric/ProjectGenerationMetricsListener.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/autoconfigure/InitializrMetricsConfiguration.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/AbstractInitializrStatTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/stat/ProjectRequestDocumentFactory.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/StatsPropertiesTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/autoconfigure/InitializrStatsAutoConfiguration.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/stat/ProjectGenerationStatPublisher.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/autoconfigure/InitializrActuatorEndpointsAutoConfiguration.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/ProjectGenerationStatPublisherTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/metric/ProjectGenerationMetricsListenerTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/test/MetricsAssert.java=1531225784000
+configuration*?=047F7B42DB5B4AC1F87BA7B31123F4385F87A25E
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/ActuatorIntegrationTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/MainControllerStatsIntegrationTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/info/DependencyRangesInfoContributor.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/stat/ProjectRequestDocument.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/info/BomRangesInfoContributorTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/autoconfigure/InitializrStatsAutoConfigurationTests.java=1531225784000
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/stat/StatsProperties.java=1531225784000

@@ -1,0 +1,21 @@
+{
+  "id" : "06500f37-7ee9-41a1-9dba-bcc0f8f34263",
+  "request" : {
+    "url" : "/ui/dependencies",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : ""
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\n  \"dependencies\" : [ {\n    \"id\" : \"web\",\n    \"name\" : \"Web\",\n    \"group\" : \"Core\",\n    \"description\" : \"Web dependency description\"\n  }, {\n    \"id\" : \"security\",\n    \"name\" : \"Security\",\n    \"group\" : \"Core\"\n  }, {\n    \"id\" : \"data-jpa\",\n    \"name\" : \"Data JPA\",\n    \"group\" : \"Core\",\n    \"keywords\" : \"jpa\"\n  }, {\n    \"id\" : \"org.acme:foo\",\n    \"name\" : \"Foo\",\n    \"group\" : \"Other\",\n    \"weight\" : 42,\n    \"keywords\" : \"thefoo,dafoo\"\n  }, {\n    \"id\" : \"org.acme:bar\",\n    \"name\" : \"Bar\",\n    \"group\" : \"Other\"\n  }, {\n    \"id\" : \"org.acme:biz\",\n    \"name\" : \"Biz\",\n    \"group\" : \"Other\"\n  }, {\n    \"id\" : \"org.acme:bur\",\n    \"name\" : \"Bur\",\n    \"group\" : \"Other\"\n  }, {\n    \"id\" : \"my-api\",\n    \"name\" : \"My API\",\n    \"group\" : \"Other\"\n  } ]\n}",
+    "headers" : {
+      "ETag" : "\"d6c5aee50de273ae7407d9a2e7cd1148\"",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "06500f37-7ee9-41a1-9dba-bcc0f8f34263"
+}

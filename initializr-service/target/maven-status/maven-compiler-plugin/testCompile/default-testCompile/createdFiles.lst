@@ -1,0 +1,11 @@
+io/spring/initializr/service/extension/SpringBoot2RequestPostProcessorTests.class
+io/spring/initializr/service/extension/SpringBatchTestRequestPostProcessorTests.class
+io/spring/initializr/service/extension/SpringSessionRequestPostProcessorTests.class
+io/spring/initializr/service/extension/ReactorTestRequestPostProcessorTests.class
+io/spring/initializr/service/extension/JacksonKotlinRequestPostProcessorTests.class
+io/spring/initializr/service/info/CloudFoundryInfoContributorTests.class
+io/spring/initializr/service/extension/JavaVersionRequestPostProcessorTests.class
+io/spring/initializr/service/extension/SpringSecurityTestRequestPostProcessorTests.class
+io/spring/initializr/service/InitializrServiceSmokeTests.class
+io/spring/initializr/service/extension/SpringCloudStreamRequestPostProcessorTests.class
+io/spring/initializr/service/extension/AbstractRequestPostProcessorTests.class

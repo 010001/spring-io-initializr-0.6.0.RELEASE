@@ -1,0 +1,15 @@
+{
+  "id" : "1387642b-c8d2-4481-9e7a-f1ee2c7aa35f",
+  "request" : {
+    "url" : "/error",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 400,
+    "body" : "{\n  \"timestamp\" : \"2018-12-03T03:30:37.410+0000\",\n  \"status\" : 400,\n  \"error\" : \"Bad Request\",\n  \"message\" : \"Unknown dependency 'foo:bar' check project metadata\",\n  \"path\" : \"/starter.zip?style=foo:bar\"\n}",
+    "headers" : {
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  },
+  "uuid" : "1387642b-c8d2-4481-9e7a-f1ee2c7aa35f"
+}

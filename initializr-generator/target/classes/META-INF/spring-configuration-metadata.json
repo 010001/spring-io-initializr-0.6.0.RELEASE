@@ -1,0 +1,324 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr",
+      "type": "io.spring.initializr.metadata.InitializrProperties"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.artifact-id",
+      "sourceMethod": "getArtifactId()",
+      "type": "io.spring.initializr.metadata.InitializrProperties$SimpleElement"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.description",
+      "sourceMethod": "getDescription()",
+      "type": "io.spring.initializr.metadata.InitializrProperties$SimpleElement"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.env",
+      "sourceMethod": "getEnv()",
+      "type": "io.spring.initializr.metadata.InitializrConfiguration$Env"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "name": "initializr.env.gradle",
+      "sourceMethod": "getGradle()",
+      "type": "io.spring.initializr.metadata.InitializrConfiguration$Env$Gradle"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "name": "initializr.env.kotlin",
+      "sourceMethod": "getKotlin()",
+      "type": "io.spring.initializr.metadata.InitializrConfiguration$Env$Kotlin"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "name": "initializr.env.maven",
+      "sourceMethod": "getMaven()",
+      "type": "io.spring.initializr.metadata.InitializrConfiguration$Env$Maven"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env$Maven",
+      "name": "initializr.env.maven.parent",
+      "sourceMethod": "getParent()",
+      "type": "io.spring.initializr.metadata.InitializrConfiguration$Env$Maven$ParentPom"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.group-id",
+      "sourceMethod": "getGroupId()",
+      "type": "io.spring.initializr.metadata.InitializrProperties$SimpleElement"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.name",
+      "sourceMethod": "getName()",
+      "type": "io.spring.initializr.metadata.InitializrProperties$SimpleElement"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.package-name",
+      "sourceMethod": "getPackageName()",
+      "type": "io.spring.initializr.metadata.InitializrProperties$SimpleElement"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.version",
+      "sourceMethod": "getVersion()",
+      "type": "io.spring.initializr.metadata.InitializrProperties$SimpleElement"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.artifact-id.description",
+      "description": "Element description.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.artifact-id.title",
+      "description": "Element title.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.artifact-id.value",
+      "description": "Element default value.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.boot-versions",
+      "description": "Available Spring Boot versions.",
+      "type": "java.util.List<io.spring.initializr.metadata.DefaultMetadataElement>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.dependencies",
+      "description": "Dependencies, organized in groups (i.e. themes).",
+      "type": "java.util.List<io.spring.initializr.metadata.DependencyGroup>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.description.description",
+      "description": "Element description.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.description.title",
+      "description": "Element title.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.description.value",
+      "description": "Element default value.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "defaultValue": "https:\/\/repo.spring.io\/release\/",
+      "name": "initializr.env.artifact-repository",
+      "description": "The url of the repository servicing distribution bundle.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "name": "initializr.env.boms",
+      "description": "The \"BillOfMaterials\" that are referenced in this instance, identified by an\n arbitrary identifier that can be used in the dependencies definition.",
+      "type": "java.util.Map<java.lang.String,io.spring.initializr.metadata.BillOfMaterials>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "defaultValue": "Application",
+      "name": "initializr.env.fallback-application-name",
+      "description": "The application name to use if none could be generated.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "defaultValue": true,
+      "name": "initializr.env.force-ssl",
+      "description": "Force SSL support. When enabled, any access using http generate https links.",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "name": "initializr.env.google-analytics-tracking-code",
+      "description": "Tracking code for Google Analytics. Only enabled if a value is explicitly\n provided.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env$Gradle",
+      "defaultValue": "1.0.0.RELEASE",
+      "name": "initializr.env.gradle.dependency-management-plugin-version",
+      "description": "Version of the \"dependency-management-plugin\" to use.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "name": "initializr.env.invalid-application-names",
+      "description": "The list of invalid application names. If such name is chosen or generated, the\n \"fallbackApplicationName\" should be used instead.",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "name": "initializr.env.invalid-package-names",
+      "description": "The list of invalid package names. If such name is chosen or generated, the the\n default package name should be used instead.",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env$Kotlin",
+      "name": "initializr.env.kotlin.default-version",
+      "description": "Default kotlin version.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env$Kotlin",
+      "name": "initializr.env.kotlin.mappings",
+      "description": "Kotlin version mappings.",
+      "type": "java.util.List<io.spring.initializr.metadata.InitializrConfiguration.Env.Kotlin.Mapping>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env$Maven$ParentPom",
+      "name": "initializr.env.maven.parent.artifact-id",
+      "description": "Parent pom artifactId.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env$Maven$ParentPom",
+      "name": "initializr.env.maven.parent.group-id",
+      "description": "Parent pom groupId.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env$Maven$ParentPom",
+      "defaultValue": false,
+      "name": "initializr.env.maven.parent.include-spring-boot-bom",
+      "description": "Add the \"spring-boot-dependencies\" BOM to the project.",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env$Maven$ParentPom",
+      "name": "initializr.env.maven.parent.version",
+      "description": "Parent pom version.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "name": "initializr.env.repositories",
+      "description": "The \"Repository\" instances that are referenced in this instance, identified by\n an arbitrary identifier that can be used in the dependencies definition.",
+      "type": "java.util.Map<java.lang.String,io.spring.initializr.metadata.Repository>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrConfiguration$Env",
+      "defaultValue": "https:\/\/spring.io\/project_metadata\/spring-boot",
+      "name": "initializr.env.spring-boot-metadata-url",
+      "description": "The metadata url of the Spring Boot project.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.group-id.description",
+      "description": "Element description.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.group-id.title",
+      "description": "Element title.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.group-id.value",
+      "description": "Element default value.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.java-versions",
+      "description": "Available java versions.",
+      "type": "java.util.List<io.spring.initializr.metadata.DefaultMetadataElement>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.languages",
+      "description": "Available programming languages.",
+      "type": "java.util.List<io.spring.initializr.metadata.DefaultMetadataElement>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.name.description",
+      "description": "Element description.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.name.title",
+      "description": "Element title.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.name.value",
+      "description": "Element default value.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.package-name.description",
+      "description": "Element description.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.package-name.title",
+      "description": "Element title.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.package-name.value",
+      "description": "Element default value.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.packagings",
+      "description": "Available packaging types.",
+      "type": "java.util.List<io.spring.initializr.metadata.DefaultMetadataElement>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties",
+      "name": "initializr.types",
+      "description": "Available project types.",
+      "type": "java.util.List<io.spring.initializr.metadata.Type>"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.version.description",
+      "description": "Element description.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.version.title",
+      "description": "Element title.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "io.spring.initializr.metadata.InitializrProperties$SimpleElement",
+      "name": "initializr.version.value",
+      "description": "Element default value.",
+      "type": "java.lang.String"
+    }
+  ]
+}

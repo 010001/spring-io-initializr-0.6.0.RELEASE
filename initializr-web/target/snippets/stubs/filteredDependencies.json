@@ -1,0 +1,22 @@
+{
+  "id" : "859b6c0f-527c-44d5-8ab9-3f48d1712362",
+  "request" : {
+    "url" : "/dependencies",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "application/json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\n  \"bootVersion\" : \"1.2.1.RELEASE\",\n  \"dependencies\" : {\n    \"org.acme:biz\" : {\n      \"groupId\" : \"org.acme\",\n      \"artifactId\" : \"biz\",\n      \"version\" : \"1.3.5\",\n      \"scope\" : \"runtime\"\n    },\n    \"org.acme:bar\" : {\n      \"groupId\" : \"org.acme\",\n      \"artifactId\" : \"bar\",\n      \"version\" : \"2.1.0\",\n      \"scope\" : \"compile\"\n    },\n    \"security\" : {\n      \"groupId\" : \"org.springframework.boot\",\n      \"artifactId\" : \"spring-boot-starter-security\",\n      \"scope\" : \"compile\"\n    },\n    \"web\" : {\n      \"groupId\" : \"org.springframework.boot\",\n      \"artifactId\" : \"spring-boot-starter-web\",\n      \"scope\" : \"compile\"\n    },\n    \"my-api\" : {\n      \"groupId\" : \"org.acme\",\n      \"artifactId\" : \"my-api\",\n      \"scope\" : \"provided\",\n      \"bom\" : \"my-api-bom\"\n    },\n    \"data-jpa\" : {\n      \"groupId\" : \"org.springframework.boot\",\n      \"artifactId\" : \"spring-boot-starter-data-jpa\",\n      \"scope\" : \"compile\"\n    },\n    \"org.acme:foo\" : {\n      \"groupId\" : \"org.acme\",\n      \"artifactId\" : \"foo\",\n      \"version\" : \"1.3.5\",\n      \"scope\" : \"compile\"\n    }\n  },\n  \"repositories\" : {\n    \"my-api-repo-2\" : {\n      \"name\" : \"repo2\",\n      \"url\" : \"http://example.com/repo2\",\n      \"snapshotEnabled\" : false\n    }\n  },\n  \"boms\" : {\n    \"my-api-bom\" : {\n      \"groupId\" : \"org.acme\",\n      \"artifactId\" : \"my-api-bom\",\n      \"version\" : \"2.0.0.RELEASE\",\n      \"repositories\" : [ \"my-api-repo-2\" ]\n    }\n  }\n}",
+    "headers" : {
+      "ETag" : "\"fb59d7d7be621a28e86d5d1a688c61f5\"",
+      "Content-Type" : "application/vnd.initializr.v2.1+json",
+      "Cache-Control" : "max-age=604800"
+    }
+  },
+  "uuid" : "859b6c0f-527c-44d5-8ab9-3f48d1712362"
+}

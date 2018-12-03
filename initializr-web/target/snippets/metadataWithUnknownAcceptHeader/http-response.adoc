@@ -1,0 +1,14 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 406 Not Acceptable
+Content-Type: application/json;charset=UTF-8
+Content-Length: 152
+
+{
+  "timestamp" : "2018-12-03T03:30:37.778+0000",
+  "status" : 406,
+  "error" : "Not Acceptable",
+  "message" : "No message available",
+  "path" : "/"
+}
+----

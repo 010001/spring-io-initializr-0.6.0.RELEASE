@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/ui/UiController.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/LinkMapper.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/DependencyMetadataJsonMapper.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/InitializrMetadataV21JsonMapper.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/DependencyMetadataV21JsonMapper.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/InitializrMetadataJsonMapper.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/InitializrMetadataVersion.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/InitializrMetadataV2JsonMapper.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/support/SpringBootMetadataReader.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/support/DefaultDependencyMetadataProvider.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/support/DefaultInitializrMetadataProvider.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/autoconfigure/InitializrWebConfig.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/autoconfigure/InitializrAutoConfiguration.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/autoconfigure/CloudfoundryEnvironmentPostProcessor.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/project/AbstractInitializrController.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/project/LegacyStsController.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/project/MainController.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/ui/UiControllerIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/AbstractFullStackInitializrIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/AbstractInitializrControllerIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/mapper/InitializrMetadataJsonMapperTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/mapper/DependencyMetadataJsonMapperTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/mapper/LinkMapperTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/support/DefaultInitializrMetadataProviderTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/support/SpringBootMetadataReaderTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/support/DefaultDependencyMetadataProviderTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/autoconfigure/InitializrAutoConfigurationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/autoconfigure/CloudfoundryEnvironmentPostProcessorTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/ProjectGenerationPostProcessorTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/MainControllerDependenciesTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/MainControllerIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/LegacyStsControllerIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/MainControllerEnvIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/HomePage.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/MainControllerDefaultsIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/CommandLineExampleIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/ProjectGenerationSmokeTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/project/MainControllerServiceMetadataIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/test/ResponseFieldSnippet.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/test/MockMvcClientHttpRequestFactoryTestExecutionListener.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/test/JsonFieldPath.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/test/JsonFieldProcessor.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/test/MockMvcClientHttpRequestFactory.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/test/java/io/spring/initializr/web/AbstractInitializrIntegrationTests.java">
+</file>
+</checkstyle>

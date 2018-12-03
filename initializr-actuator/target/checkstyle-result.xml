@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/info/BomRangesInfoContributor.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/info/DependencyRangesInfoContributor.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/metric/ProjectGenerationMetricsListener.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/autoconfigure/InitializrStatsAutoConfiguration.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/autoconfigure/InitializrMetricsConfiguration.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/autoconfigure/InitializrActuatorEndpointsAutoConfiguration.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/stat/ProjectRequestDocument.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/stat/StatsProperties.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/stat/ProjectGenerationStatPublisher.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/main/java/io/spring/initializr/actuate/stat/ProjectRequestDocumentFactory.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/info/BomRangesInfoContributorTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/info/DependencyRangesInfoContributorTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/ActuatorIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/metric/ProjectGenerationMetricsListenerTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/autoconfigure/InitializrStatsAutoConfigurationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/ProjectRequestDocumentFactoryTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/AbstractInitializrStatTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/ProjectGenerationStatPublisherTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/StatsPropertiesTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/MainControllerStatsIntegrationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/test/MetricsAssert.java">
+</file>
+</checkstyle>

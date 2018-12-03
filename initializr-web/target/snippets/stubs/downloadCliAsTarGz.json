@@ -1,0 +1,21 @@
+{
+  "id" : "2148f2a2-f4b3-42f0-840e-f47098406351",
+  "request" : {
+    "url" : "/spring.tar.gz",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "application/json, application/json, application/*+json, application/*+json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 302,
+    "body" : "",
+    "headers" : {
+      "Content-Language" : "en",
+      "Location" : "https://repo.spring.io/release/org/springframework/boot/spring-boot-cli/1.1.4.RELEASE/spring-boot-cli-1.1.4.RELEASE-bin.tar.gz"
+    }
+  },
+  "uuid" : "2148f2a2-f4b3-42f0-840e-f47098406351"
+}

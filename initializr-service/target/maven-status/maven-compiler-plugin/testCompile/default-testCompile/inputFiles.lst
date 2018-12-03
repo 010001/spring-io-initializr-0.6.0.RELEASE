@@ -1,0 +1,11 @@
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/info/CloudFoundryInfoContributorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/extension/ReactorTestRequestPostProcessorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/InitializrServiceSmokeTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/extension/SpringSecurityTestRequestPostProcessorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/extension/AbstractRequestPostProcessorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/extension/SpringCloudStreamRequestPostProcessorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/extension/SpringBoot2RequestPostProcessorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/extension/SpringBatchTestRequestPostProcessorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/extension/JavaVersionRequestPostProcessorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/extension/JacksonKotlinRequestPostProcessorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-service/src/test/java/io/spring/initializr/service/extension/SpringSessionRequestPostProcessorTests.java

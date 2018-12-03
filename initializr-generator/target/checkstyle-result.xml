@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/TextCapability.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/InitializrMetadataCustomizer.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/InitializrMetadata.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/Defaultable.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/BillOfMaterials.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/Dependency.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/Repository.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/InitializrProperties.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/InitializrConfiguration.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/Describable.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/SimpleInitializrMetadataProvider.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/DependencyMetadataProvider.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/InitializrMetadataBuilder.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/SingleSelectCapability.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/DependenciesCapability.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/ServiceCapabilityType.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/TypeCapability.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/DependencyMetadata.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/MetadataElement.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/ServiceCapability.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/Type.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/InitializrMetadataProvider.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/DependencyGroup.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/InvalidInitializrMetadataException.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/Link.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/metadata/DefaultMetadataElement.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/InitializrException.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/util/Agent.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/util/TemplateRenderer.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/util/VersionProperty.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/util/VersionParser.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/util/Version.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/util/InvalidVersionException.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/util/VersionRange.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/InvalidProjectRequestException.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/BasicProjectRequest.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/ProjectRequestEvent.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/ProjectRequestResolver.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/ProjectGenerator.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/ProjectRequestPostProcessor.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/CommandLineHelpGenerator.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/ProjectRequest.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/ProjectGeneratedEvent.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/BuildProperties.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/ProjectFailedEvent.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/java/io/spring/initializr/generator/ProjectResourceLocator.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/InitializrMetadataBuilderTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/TypeTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/TypeCapabilityTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/LinkTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/DependenciesCapabilityTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/DependencyTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/TextCapabilityTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/BillOfMaterialsTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/SingleSelectCapabilityTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/InitializrMetadataTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/metadata/InitializrConfigurationTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/util/VersionPropertyTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/util/VersionParserTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/util/AgentTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/util/VersionRangeTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/util/VersionTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/generator/ProjectRequestTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/generator/ProjectGeneratorTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/generator/ProjectRequestResolverTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/generator/AbstractProjectGeneratorTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/generator/ProjectGeneratorLanguageTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/generator/CommandLineHelpGeneratorTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/generator/CustomProjectGeneratorTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/generator/ProjectGeneratorBuildTests.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/test/metadata/InitializrMetadataTestBuilder.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/test/generator/GradleSettingsAssert.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/test/generator/SourceCodeAssert.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/test/generator/GradleBuildAssert.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/test/generator/PomAssert.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/test/java/io/spring/initializr/test/generator/ProjectAssert.java">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/resources/project/maven/wrapper/maven-wrapper.properties">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/resources/project/gradle/gradle/wrapper/gradle-wrapper.properties">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/resources/project/gradle4/gradle/wrapper/gradle-wrapper.properties">
+</file>
+<file name="/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-generator/src/main/resources/project/gradle3/gradle/wrapper/gradle-wrapper.properties">
+</file>
+</checkstyle>

@@ -1,0 +1,15 @@
+io/spring/initializr/actuate/stat/MainControllerStatsIntegrationTests$StatsMockController$Content.class
+io/spring/initializr/actuate/stat/ProjectRequestDocumentFactoryTests.class
+io/spring/initializr/actuate/autoconfigure/InitializrStatsAutoConfigurationTests$CustomRestTemplateConfiguration.class
+io/spring/initializr/actuate/stat/StatsPropertiesTests.class
+io/spring/initializr/actuate/autoconfigure/InitializrStatsAutoConfigurationTests$InfrastructureConfiguration.class
+io/spring/initializr/actuate/autoconfigure/InitializrStatsAutoConfigurationTests.class
+io/spring/initializr/actuate/stat/ProjectGenerationStatPublisherTests.class
+io/spring/initializr/actuate/info/BomRangesInfoContributorTests.class
+io/spring/initializr/actuate/metric/ProjectGenerationMetricsListenerTests.class
+io/spring/initializr/actuate/stat/MainControllerStatsIntegrationTests$StatsMockController.class
+io/spring/initializr/actuate/ActuatorIntegrationTests.class
+io/spring/initializr/actuate/stat/MainControllerStatsIntegrationTests.class
+io/spring/initializr/actuate/info/DependencyRangesInfoContributorTests.class
+io/spring/initializr/actuate/test/MetricsAssert.class
+io/spring/initializr/actuate/stat/AbstractInitializrStatTests.class

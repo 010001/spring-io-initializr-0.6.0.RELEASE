@@ -1,0 +1,24 @@
+{
+  "id" : "9d0e0748-2906-46b7-8234-70679a0c7ceb",
+  "request" : {
+    "url" : "/",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "text/plain"
+      },
+      "User-Agent" : {
+        "equalTo" : "SpringBootCli/1.2.0"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "  .   ____          _            __ _ _\n /\\\\ / ___'_ __ _ _(_)_ __  __ _ \\ \\ \\ \\\n( ( )\\___ | '_ | '_| | '_ \\/ _` | \\ \\ \\ \\\n \\\\/  ___)| |_)| | | | | || (_| |  ) ) ) )\n  '  |____| .__|_| |_|_| |_\\__, | / / / /\n =========|_|==============|___/=/_/_/_/\n:: Service capabilities ::  https://start.spring.io\n\nSupported dependencies\n+--------------+----------------------------+-------------------------------------------+\n| Id           | Description                | Required version                          |\n+--------------+----------------------------+-------------------------------------------+\n| data-jpa     | Data JPA                   |                                           |\n| data-jpa     | Data JPA                   |                                           |\n| my-api       | My API                     |                                           |\n| org.acme:bar | Bar                        |                                           |\n| org.acme:biz | Biz                        | >=1.2.0.BUILD-SNAPSHOT                    |\n| org.acme:bur | Bur                        | >=1.1.4.RELEASE and <1.2.0.BUILD-SNAPSHOT |\n| org.acme:foo | Foo                        |                                           |\n| security     | Security                   |                                           |\n| web          | Web dependency description |                                           |\n+--------------+----------------------------+-------------------------------------------+\n\n\nProject types (* denotes the default)\n+-----------------+----------------+-----------------------------+\n| Id              | Description    | Tags                        |\n+-----------------+----------------+-----------------------------+\n| gradle-build    | Gradle Config  | build:gradle,format:build   |\n| gradle-project  | Gradle Project | build:gradle,format:project |\n| maven-build     | Maven POM      | build:maven,format:build    |\n| maven-project * | Maven Project  | build:maven,format:project  |\n+-----------------+----------------+-----------------------------+\n\n\nParameters\n+-------------+------------------------------------------+------------------------------+\n| Id          | Description                              | Default value                |\n+-------------+------------------------------------------+------------------------------+\n| artifactId  | project coordinates (infer archive name) | demo                         |\n| bootVersion | spring boot version                      | 1.1.4.RELEASE                |\n| description | project description                      | Demo project for Spring Boot |\n| groupId     | project coordinates                      | com.example                  |\n| javaVersion | language level                           | 1.8                          |\n| language    | programming language                     | java                         |\n| name        | project name (infer application name)    | demo                         |\n| packageName | root package                             | com.example.demo             |\n| packaging   | project packaging                        | jar                          |\n| type        | project type                             | maven-project                |\n| version     | project version                          | 0.0.1-SNAPSHOT               |\n+-------------+------------------------------------------+------------------------------+\n\n",
+    "headers" : {
+      "ETag" : "\"e38b96a7794af9d2bd857241ac1194b8\"",
+      "Content-Type" : "text/plain"
+    }
+  },
+  "uuid" : "9d0e0748-2906-46b7-8234-70679a0c7ceb"
+}

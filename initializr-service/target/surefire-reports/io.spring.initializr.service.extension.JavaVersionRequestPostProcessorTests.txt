@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.spring.initializr.service.extension.JavaVersionRequestPostProcessorTests
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.101 s - in io.spring.initializr.service.extension.JavaVersionRequestPostProcessorTests

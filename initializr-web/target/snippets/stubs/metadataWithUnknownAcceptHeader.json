@@ -1,0 +1,15 @@
+{
+  "id" : "f082863b-0f9b-4cf7-ba2c-f94fd3270c41",
+  "request" : {
+    "url" : "/error",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 406,
+    "body" : "{\n  \"timestamp\" : \"2018-12-03T03:30:37.778+0000\",\n  \"status\" : 406,\n  \"error\" : \"Not Acceptable\",\n  \"message\" : \"No message available\",\n  \"path\" : \"/\"\n}",
+    "headers" : {
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  },
+  "uuid" : "f082863b-0f9b-4cf7-ba2c-f94fd3270c41"
+}

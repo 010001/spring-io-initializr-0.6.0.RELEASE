@@ -1,0 +1,21 @@
+{
+  "id" : "1f7f638e-c2b1-4d9d-81cd-1bc59494b4d7",
+  "request" : {
+    "url" : "/ui/dependencies",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : ""
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\n  \"dependencies\" : [ {\n    \"id\" : \"web\",\n    \"name\" : \"Web\",\n    \"group\" : \"Core\",\n    \"description\" : \"Web dependency description\"\n  }, {\n    \"id\" : \"security\",\n    \"name\" : \"Security\",\n    \"group\" : \"Core\"\n  }, {\n    \"id\" : \"data-jpa\",\n    \"name\" : \"Data JPA\",\n    \"group\" : \"Core\",\n    \"keywords\" : \"jpa\"\n  }, {\n    \"id\" : \"org.acme:foo\",\n    \"name\" : \"Foo\",\n    \"group\" : \"Other\",\n    \"weight\" : 42,\n    \"keywords\" : \"thefoo,dafoo\"\n  }, {\n    \"id\" : \"org.acme:bar\",\n    \"name\" : \"Bar\",\n    \"group\" : \"Other\"\n  }, {\n    \"id\" : \"my-api\",\n    \"name\" : \"My API\",\n    \"group\" : \"Other\"\n  } ]\n}",
+    "headers" : {
+      "ETag" : "\"b2f01e71843d26c3f2f1f244e286f5f0\"",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "1f7f638e-c2b1-4d9d-81cd-1bc59494b4d7"
+}

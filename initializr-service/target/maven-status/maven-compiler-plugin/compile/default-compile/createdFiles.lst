@@ -1,0 +1,12 @@
+io/spring/initializr/service/extension/SpringBoot2RequestPostProcessor.class
+io/spring/initializr/service/InitializrService$AsyncConfiguration.class
+io/spring/initializr/service/info/CloudFoundryInfoContributor.class
+io/spring/initializr/service/extension/SpringSecurityTestRequestPostProcessor.class
+io/spring/initializr/service/extension/JacksonKotlinRequestPostProcessor.class
+io/spring/initializr/service/extension/ReactorTestRequestPostProcessor.class
+io/spring/initializr/service/InitializrService.class
+io/spring/initializr/service/extension/JavaVersionRequestPostProcessor.class
+io/spring/initializr/service/extension/SpringBatchTestRequestPostProcessor.class
+io/spring/initializr/service/extension/SpringSessionRequestPostProcessor.class
+io/spring/initializr/service/extension/SpringCloudStreamRequestPostProcessor.class
+io/spring/initializr/service/extension/AbstractProjectRequestPostProcessor.class

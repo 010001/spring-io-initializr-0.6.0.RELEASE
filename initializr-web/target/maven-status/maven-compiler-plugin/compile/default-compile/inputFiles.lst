@@ -1,0 +1,17 @@
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/support/DefaultInitializrMetadataProvider.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/DependencyMetadataJsonMapper.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/InitializrMetadataJsonMapper.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/ui/UiController.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/InitializrMetadataV21JsonMapper.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/LinkMapper.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/project/AbstractInitializrController.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/autoconfigure/InitializrAutoConfiguration.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/project/MainController.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/InitializrMetadataVersion.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/InitializrMetadataV2JsonMapper.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/mapper/DependencyMetadataV21JsonMapper.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/autoconfigure/InitializrWebConfig.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/project/LegacyStsController.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/support/SpringBootMetadataReader.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/support/DefaultDependencyMetadataProvider.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-web/src/main/java/io/spring/initializr/web/autoconfigure/CloudfoundryEnvironmentPostProcessor.java

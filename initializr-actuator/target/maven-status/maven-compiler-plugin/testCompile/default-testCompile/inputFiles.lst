@@ -1,0 +1,11 @@
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/ProjectRequestDocumentFactoryTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/test/MetricsAssert.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/MainControllerStatsIntegrationTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/metric/ProjectGenerationMetricsListenerTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/StatsPropertiesTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/info/BomRangesInfoContributorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/info/DependencyRangesInfoContributorTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/autoconfigure/InitializrStatsAutoConfigurationTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/ProjectGenerationStatPublisherTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/stat/AbstractInitializrStatTests.java
+/home/fangbin/Downloads/github/spring-io/initalizr/initializr-0.6.0.RELEASE/initializr-actuator/src/test/java/io/spring/initializr/actuate/ActuatorIntegrationTests.java

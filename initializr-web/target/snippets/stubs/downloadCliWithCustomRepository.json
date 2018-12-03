@@ -1,0 +1,21 @@
+{
+  "id" : "a7d2fa2c-080d-4d52-96a3-ba1aed5b18ca",
+  "request" : {
+    "url" : "/spring",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "text/plain, text/plain, application/json, application/json, application/*+json, application/*+json, */*, */*"
+      }
+    }
+  },
+  "response" : {
+    "status" : 302,
+    "body" : "",
+    "headers" : {
+      "Content-Language" : "en",
+      "Location" : "https://repo.spring.io/lib-release/org/springframework/boot/spring-boot-cli/1.1.4.RELEASE/spring-boot-cli-1.1.4.RELEASE-bin.zip"
+    }
+  },
+  "uuid" : "a7d2fa2c-080d-4d52-96a3-ba1aed5b18ca"
+}

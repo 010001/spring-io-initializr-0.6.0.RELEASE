@@ -1,0 +1,12 @@
+io/spring/initializr/actuate/info/BomRangesInfoContributor.class
+META-INF/spring-configuration-metadata.json
+io/spring/initializr/actuate/info/DependencyRangesInfoContributor.class
+io/spring/initializr/actuate/stat/StatsProperties$Elastic.class
+io/spring/initializr/actuate/metric/ProjectGenerationMetricsListener.class
+io/spring/initializr/actuate/stat/ProjectRequestDocumentFactory.class
+io/spring/initializr/actuate/stat/ProjectRequestDocument.class
+io/spring/initializr/actuate/autoconfigure/InitializrMetricsConfiguration.class
+io/spring/initializr/actuate/stat/StatsProperties.class
+io/spring/initializr/actuate/autoconfigure/InitializrActuatorEndpointsAutoConfiguration.class
+io/spring/initializr/actuate/stat/ProjectGenerationStatPublisher.class
+io/spring/initializr/actuate/autoconfigure/InitializrStatsAutoConfiguration.class
