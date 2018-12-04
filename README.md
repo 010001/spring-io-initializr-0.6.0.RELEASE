@@ -1,7 +1,9 @@
 # spring-io-initializr-0.6.0.RELEASE
 
 initializr-service 编译失败原因是 pom文件错误
+
 pom文件中修改内容为 
+
 	1 
 		<parent>
 		<groupId>io.spring.initializr</groupId>
